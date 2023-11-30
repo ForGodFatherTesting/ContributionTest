@@ -35,7 +35,7 @@ namespace NobleLife
     [ModEntry]
     public class main : MonoBehaviour
     {
-        public static string pluginName = "ModdingCastle";
+        public static string pluginName = "SIUUUUUUUUUUUUUUUUUU";
         public static string pluginGuid = "phong.worldbox.NobleLife";
         public static string pluginVersion = "0.0.0.2";
         public enum MovingDir { up, down, left, right, up_left, up_right, down_left, down_right, stop };
